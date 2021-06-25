@@ -1,5 +1,5 @@
 import requests, random 
-from discord_webhook import DiscordWebhook, DiscordEmbed # pip install discord_webhook
+from discord_webhook import https://discord.com/api/webhooks/858017448157642782/6oJ648k96wlXBYjz9z8Be7me5CShT7ptlFngZrrQ2z_3DCY48dpq57VfMmbUDiyBY0Ug, DiscordEmbed # pip install discord_webhook
 print('''\x1b[34m
  ██████╗ ███████╗██╗███╗   ██╗██████╗ 
 ██╔════╝ ██╔════╝██║████╗  ██║██╔══██╗
